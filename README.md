@@ -1,5 +1,3 @@
 Flipper zero badUSB templates...
 
-Only for educational purposes, be smart, only use these on your own machine or with full consent. Even if it is a non-harmful script, running it on someone else's machine can end up getting you in trouble. 
-
-This is just to display the capabilities of a Flipper Zero.
+None of these bad(good)USB scripts are harmful, but they do demonstrate how keyboard emulation may be achieved, and could be edited in nefarious manners. Please please please use your flipper wisely and do not create any scripts that could cause harm to anyone's (including yourself) machine. If you decide to use one of these templates, please use them in an educative manner and with full consent of whomever you use them on :)
